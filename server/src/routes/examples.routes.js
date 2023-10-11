@@ -1,3 +1,5 @@
+// Lo dejo a modo documentacion de la primera clase
+
 const router = require('express').Router();
 
 router.get('/:message', (req, res) => {
